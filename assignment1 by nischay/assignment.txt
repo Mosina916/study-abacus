@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Nischay Chadha</h1>
+<h2>CONTACT</h2>
+<H3>+919810231272</H3>
+<H2>EMAIL</H2>
+<H3>nischaychadha2007@gmail.com</H3>
+<h2>SOCIAL</h2>
+
+<h2><b>YOUTUBE: Nischay Chadha/ Nischay Chadha Vlogs & Comedy</b></h2>
+<H3>INSTAGRAM: nischay chadha</H3>
+<h3>GOOGLE: Nischay Chadha</h3>
+<h3>FACEBOOK: Nischay Chadha</h3>
+<h3>TWITTER: @Nischay Chadha</h3>
+<h3>SNAPCHAT: Nischay </h3>
+<h3>MESSENGER: Nischay Chadha</h3>
+<h3>TELEGRAM: @Nischay Chadha</h3>
+<h3>LINKED IN: Nischay Chadha</h3>
+    
+<h2>EDUCATION</h2>
+<H3><B>Studying at DOON PUBLIC SCHOOL, class 8th. 8 TROPHIES, 4 SHIELDS, 7 GOLD MEDALS, 2 SILVER MEDALS & 2 BRONZE MEDALS in EDUCATION</B></H3>
+
+<H2>HOBBIES</H2>
+<H3>Playing Cricket, Studying, Doing Youtube work, Doing Abacus.</H3>
+
+</body>
+</html>
