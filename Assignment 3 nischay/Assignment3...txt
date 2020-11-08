@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Below we have different section, different linkntag have been used</p>
+    <h1>SECTION 1</h1>
+    <P>This section consist of the links which will direct us to different websites </P>
+
+<a href="https://www.youtube.com/">Youtube</a>
+<br>
+<a href="https://codingblocks.com/">Coding Blocks</a>
+<br>
+<a href="https://github.com/">GitHub</a>
+<br>
+<a href="https://www.google.com/">Google</a>
+<br>
+
+<h1>SECTION 2</h1>
+
+<P>This section consists of the links through which we can call a particular organization</P>
+<br>
+<a href="tel:100">Police Number</a>
+<br>
+<a href="tel:8485747567">Jio Customer Care</a>
+<br>
+
+<h1>SECTION 3</h1>
+<p>This section consists of the links through which we can directly mail a particular organization</p>
+<a href="mailto:">codingblocks helpline E-mail</a>
+<br>
+<a href="mailto:">Sbi helpline E-mail ID</a>
+
+
+</body>
+</html>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h1>My Favourite Marvel Movies</h1>
+
+ <Ol>
+      <li><b>PHASE ONE</b>
+        <ul type="square">
+               <li>Iron Man
+<ol type="a">
+<li> Release Date
+  
+  <ul type="circle">
+<li>May 2,2008</li>
+  </ul>
+<li>Director(s)
+<ol type="i">
+<li>Jon favreau</li>
+</ol>
+<ul type="square">
+<li>Actor</li>
+</ul>
+<ul type="circle">
+  <li>1992-present</li>
+</ul>
+
+</li>
+
+
+<li>Producer(s)
+<ol reversed>
+<li>Avin Arad</li>
+<li>Kevin Feige</li>
+
+
+</ol>
+
+
+
+
+</li>
+</ol>
+</li>
+<li>Thor
+<ol type="a">
+
+<li>Release Date
+<ul type="circle">
+<li>May 6,2011</li>
+</ul>
+
+</li>
+<li>Director(s)
+<ol type="1">
+  <li>Kenneth Branagh</li>
+</ol>
+
+  <ul type="square">
+    <li>Actor
+      <ul type="circle">
+<li>1981-present</li>
+
+      </ul>
+    </li>
+    <li>Director</li>
+    
+    </ul>
+
+</li>
+</ol>
+
+
+
+
+
+
+</li>
+        </ul>
+
+
+
+
+
+
+
+
+
+
+        <li><b>PHASE TWO</b>
+          </Ol>
+        <ul type="square">
+<li>Iron Man 3
+  <ol type="1">
+<li>Release Date
+<ul type="charset">
+  <li>May 3,2013</li>
+</ul>
+
+</li>
+<li>Director(s)
+<ol type="1">
+  <li>Shane Black</li>
+</ol>
+
+</li>
+
+  </ol>
+
+
+<ul></ul>
+
+
+</li>
+<li><b>Phase 3</b>
+<ol type="A">
+<li>Captain Marvel</li>
+<li>Avengers Endgame</li>
+
+</ol>
+
+</li>
+        </ul>
+        
+        
+        </li>
+            
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
