@@ -1,0 +1,31 @@
+h1{
+    color: brown;
+    font-size: 60px;
+
+}
+
+p{
+    color:#42f55a;
+    /* font-size: larger; */
+
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: 800;
+}
+
+#on{
+    color: indigo;
+}
+
+#two{
+    color: #424bf5;
+}
+
+
+.three{
+    color: rgb(39, 77, 9);
+}
+
+#four{
+    color: maroon;
+}
