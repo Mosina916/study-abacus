@@ -1,0 +1,42 @@
+h1{
+    color: blueviolet;
+    font-family: cursive;
+    text-decoration: overline;
+    text-decoration: underline;
+    text-decoration: line-through;
+}
+p{
+    color: crimson;
+    font-weight: 800;
+    font-size: 30px;
+    /* font-family: 'Big Shoulders Stencil Text', cursive; */
+    font-family: 'Big Shoulders Stencil Text', cursive;
+font-family: 'Xanh Mono', monospace;
+word-spacing: -25px;
+letter-spacing: 5px;
+/* letter-spacing: -10px; */
+}
+#abc{
+    color: #006400;
+    font-size: 50px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+
+    
+}
+/* body{
+    background-color: black;
+
+} */
+
+#def{
+    background-color: black;
+    background-color: darkgoldenrod;
+    /* text-align: center; */
+
+    /* text-align: right; */
+  text-align: justify;
+}
+.one{
+    color: chartreuse;
+}
+
