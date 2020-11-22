@@ -1,0 +1,37 @@
+.one{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    /* border-width: 15px;
+    border-style: groove;
+    border-color: palevioletred; */
+    border: 15px dotted palevioletred;
+
+
+}
+.two{
+    
+    text-indent: 100px;
+    line-height: 3;
+}
+body{
+    background-color: black;
+    color: coral;
+}
+p{
+    border-radius: 200px;
+    border: 10px solid brown ;
+    color: lime;
+}
+#three{
+    border-top-color: darkcyan;
+    border-top-width: 5px;
+    border-top-style: dotted;
+    border-bottom-color:royalblue;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    
+   
+    
+
+
+}

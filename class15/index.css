@@ -1,0 +1,66 @@
+/* div.one h1#two{
+    color: blue;
+} */
+
+/* will work same */
+/* #two{
+    color: blue;
+
+} */
+
+
+div.one h1{
+    color: blueviolet;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 15px 15px 20px crimson;
+
+    background-color: black;
+    /* text-transform: uppercase; */
+    text-transform: lowercase;
+    text-transform: capitalize;
+    margin-right: 50px;
+    margin-left: 100px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+
+
+
+
+    /*  */
+}
+
+div.two h1{
+    color: blueviolet;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: -15px -15px 10px green,
+    15px 15px 20px crimson ;
+
+    
+    background-color: black;
+    margin: 100px;
+    /*  */
+
+/* 
+    text-shadow: 0 0 20px #fefcc9,
+                     10px -10px 30px #feec85,
+                     -20px -20px 40px #ffae34,
+                     20px -30px 35px #ec760c,
+                     -20px -40px 40px #cd4606,
+                     0 -50px 65px #973716,
+                     10px -70px 70px #451b0e; */
+}
+
+
+
+body{
+    background-image: url(https://img.freepik.com/free-photo/luxury-wedding-table-with-flowers-trees_88194-899.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+p{
+    font-size: 30px;
+    color: greenyellow;
+}
