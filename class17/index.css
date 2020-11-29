@@ -1,0 +1,38 @@
+h1:hover{
+    color: chartreuse;
+    font-size: 50px;
+    font-family: cursive;
+    background-color: black;
+}
+a:hover{
+    color:blueviolet;
+    background-color: dodgerblue;
+
+}
+a:link{
+    color: darkred;
+}
+a:visited{
+
+    color: deeppink;
+    font-size: 100px;
+    background-color: gold;
+}
+a:active{
+    color: orangered;
+    background-color: rosybrown;
+    font-size: 60px;
+}
+
+input#four:focus{
+    background-color: seagreen;
+    color: yellow;
+    font-size: 60px;
+    border: 15px double red;
+}
+
+div.three:focus-within{
+    background-color: violet;
+    font-size: 70px;
+    color: teal;
+}
