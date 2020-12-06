@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    /* font-family: cursive; */
+    font-size: 25px;
+}
+li{
+    color: green;
+    /* font-family: cursive; */
+
+}
+body{
+    font-family: cursive;
+    background-color: black;
+}

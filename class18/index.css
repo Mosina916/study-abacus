@@ -1,0 +1,36 @@
+input[type="radio"]:checked{
+    box-shadow: 0 0 0 5px green;
+}
+
+input[type="checkbox"]:checked{
+    box-shadow: 0 0 0 5px green;
+}
+input:checked +label{
+    background-color: lawngreen;
+}
+div.three p:first-child{
+    color: lime;
+    background-color: black;
+}
+div.three p:last-child{
+    color:pink;
+    background-color: black;
+}
+div.three p:first-of-type{
+    color: violet;
+    background-color: yellow;
+}
+div.three div:last-of-type{
+    color:orangered;
+    background-color: yellow;
+    border: 5px solid green;
+}
+div.three em:only-of-type{
+    color:purple;
+    background-color: yellow;
+}
+
+
+
+
+
