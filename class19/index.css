@@ -1,0 +1,53 @@
+div.one input:invalid{
+    background-color: red;
+}
+div.one input:valid{
+    background-color: green;
+}
+
+div.two input:invalid{
+    background-color: hotpink;
+}
+div.two input:valid{
+    background-color: lawngreen;
+}
+
+div.three input:out-of-range{
+    background-color: mediumblue;
+}
+div.three input:in-range{
+    background-color: orange;
+}
+
+div.four input:in-range +label::after{
+    content: ' correct guess';
+}
+div.four input:out-of-range +label::after{
+    content: ' Wrong guess';
+}
+
+div.four input:in-range +label::before{
+    content: ' yeeyyyyy ';
+}
+div.four input:out-of-range +label::before{
+    content: ' ohhhhh ';
+}
+
+
+.five:hover{
+    font-size: 40px;
+    color: orangered;
+
+}
+body{
+    color: purple;
+    background-color: black;
+    font-family: cursive;
+    font-weight: 900;
+    border-top:20px green groove; 
+    border-left:20px pink solid ;
+    border-right: 20px red dotted;
+    border-bottom: 20px beige dashed;
+
+    /* border: 10px green groove; */
+}

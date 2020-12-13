@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+.header{
+    /* background-color: blueviolet; */
+    /* padding: 30px; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqVNszcmPzXdp9O3wU7T_y9N4HXjUNnW3bQ&usqp=CAU);
+    height: 150px;
+
+}
+.name{
+    color: maroon;
+    font-size: 35px;
+    font-family: cursive;
+    /* position: static; */
+    position: relative;
+    top: 70px;
+}
+.about{
+    background-color: orange;
+}
+.heading{
+    font-size: 30px;
+    background-color: mediumvioletred;
+    position: sticky;
+    top: 40px;
+    z-index: 1;
+
+}
+.description{
+    /* background-color: orange; */
+     position: relative;
+    /* position: absolute; */
+    top: 30px; 
+    padding-bottom: 30px;
+}
+
+
